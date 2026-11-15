@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-15",
  "D": {
   "h100": {
    "n": "H100",
@@ -36,15 +36,15 @@
      "N"
     ],
     [
-     "Hyperbolic",
-     3.19,
-     "1x H100",
+     "Scaleway",
+     3.17,
+     "1x H100 PCIe",
      "N"
     ],
     [
-     "Scaleway",
+     "Hyperbolic",
      3.19,
-     "1x H100 PCIe",
+     "1x H100",
      "N"
     ],
     [
@@ -156,16 +156,16 @@
      "N"
     ],
     [
-     "Vast.ai",
-     3.85,
-     "Marketplace median, US/CA hosts",
-     "M"
-    ],
-    [
      "Hyperbolic",
      3.99,
      "1x H200",
      "N"
+    ],
+    [
+     "Vast.ai",
+     4.13,
+     "Marketplace median, US/CA hosts",
+     "M"
     ],
     [
      "Crusoe",
@@ -266,7 +266,7 @@
     [
      "UpCloud",
      6.05,
-     "1x B200 SXM",
+     "8x B200 SXM",
      "N"
     ],
     [
@@ -282,12 +282,6 @@
      "N"
     ],
     [
-     "Together AI",
-     8.19,
-     "1x B200 SXM",
-     "N"
-    ],
-    [
      "Nebius",
      8.5,
      "1x B200 SXM",
@@ -297,6 +291,12 @@
      "CoreWeave",
      8.6,
      "8x B200 SXM",
+     "N"
+    ],
+    [
+     "Together AI",
+     9.29,
+     "1x B200 SXM",
      "N"
     ],
     [
@@ -337,7 +337,7 @@
     ],
     [
      "Seeweb",
-     1.1,
+     1.09,
      "1x A100 80GB PCIe",
      "N"
     ],
@@ -354,12 +354,6 @@
      "N"
     ],
     [
-     "RunPod",
-     1.79,
-     "1x A100 80GB SXM, Secure Cloud",
-     "N"
-    ],
-    [
      "Lambda",
      1.99,
      "1x A100 40GB SXM",
@@ -369,6 +363,12 @@
      "Crusoe",
      2,
      "1x A100 80GB PCIe",
+     "N"
+    ],
+    [
+     "RunPod",
+     2.19,
+     "1x A100 80GB SXM, Secure Cloud",
      "N"
     ],
     [
@@ -420,7 +420,7 @@
   [
    "NVIDIA B300",
    "$9.50",
-   "$5.53"
+   "$5.51"
   ],
   [
    "NVIDIA GB200",
