@@ -62,6 +62,16 @@ ${histT}
 <li><strong>Check availability.</strong> The cheapest listings are often out of stock or limited to single GPUs.</li>
 <li><strong>Multi-GPU training needs fast links.</strong> For training across many GPUs, choose SXM servers with NVLink and InfiniBand networking. Learn why in <a href="/nvlink-nvswitch-explained/">NVLink and NVSwitch explained</a>.</li>
 <li><strong>Commit only when usage is steady.</strong> Reserved pricing saves money, but only if you will keep the GPUs busy.</li></ul>
+<h2 id="guides">GPU price guides</h2>
+<div class="gp-grid2">
+<a class="gp-box" href="/h100-price/" style="text-decoration:none"><h3>H100 price</h3><p>Buy and rental costs for the H100 in 2026.</p></a>
+<a class="gp-box" href="/h200-price/" style="text-decoration:none"><h3>H200 price</h3><p>Rental rates per hour and purchase cost.</p></a>
+<a class="gp-box" href="/b200-price/" style="text-decoration:none"><h3>B200 price</h3><p>What Blackwell costs to rent or buy.</p></a>
+<a class="gp-box" href="/cheapest-cloud-gpu/" style="text-decoration:none"><h3>Cheapest cloud GPUs</h3><p>Where to rent H100, H200 and B200 for less.</p></a>
+<a class="gp-box" href="/aws-vs-google-cloud-vs-azure-gpu-pricing/" style="text-decoration:none"><h3>AWS vs Google Cloud vs Azure</h3><p>Hyperscaler GPU prices compared.</p></a>
+<a class="gp-box" href="/rent-vs-buy-gpu/" style="text-decoration:none"><h3>Rent or buy a GPU?</h3><p>Break-even math for H100 and B200.</p></a>
+<a class="gp-box" href="/gpu-prices-rising-2026/" style="text-decoration:none"><h3>Why prices are rising</h3><p>The data behind 2026's GPU price increases.</p></a>
+<a class="gp-box" href="/category/gpu-prices/" style="text-decoration:none"><h3>All GPU price articles</h3><p>Every guide in the GPU Prices category.</p></a></div>
 <h2 id="methodology">Methodology and sources</h2>
 <p class="gp-dim">Every day we compile on-demand list prices published by providers, as aggregated by public GPU price trackers. Prices are converted to US dollars per GPU per hour; multi-GPU instance prices are divided by the number of GPUs. The median is calculated across the providers listed for each GPU. We exclude spot, reserved and custom-quote pricing. Prices change frequently and may differ by region, so always confirm on the provider's site. Sources: <a href="https://getdeploying.com/gpus" rel="nofollow noopener" target="_blank">GetDeploying GPU price data</a>, <a href="https://gpuperhour.com/gpu-price-index" rel="nofollow noopener" target="_blank">GPU Per Hour price index</a> and <a href="https://www.thundercompute.com/blog/nvidia-h200-pricing" rel="nofollow noopener" target="_blank">Thunder Compute H200 price comparison</a>.</p>
 <h2 id="faq">Frequently asked questions</h2>
