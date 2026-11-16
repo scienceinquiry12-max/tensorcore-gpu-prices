@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "D": {
   "h100": {
    "n": "H100",
@@ -54,15 +54,15 @@
      "N"
     ],
     [
-     "Lambda",
-     3.29,
-     "1x H100 PCIe",
-     "N"
-    ],
-    [
      "Jarvislabs",
      3.49,
      "1x H100 SXM",
+     "N"
+    ],
+    [
+     "Lambda",
+     3.79,
+     "1x H100 PCIe",
      "N"
     ],
     [
@@ -216,15 +216,15 @@
      "H"
     ],
     [
-     "Azure",
-     10.6,
-     "ND96isr H200 v5, 8x H200",
-     "H"
-    ],
-    [
      "Google Cloud",
      10.85,
      "a3-ultragpu-8g, reservation only",
+     "H"
+    ],
+    [
+     "Azure",
+     13.78,
+     "ND96isr H200 v5, 8x H200",
      "H"
     ]
    ]
@@ -271,7 +271,7 @@
     ],
     [
      "Lambda",
-     6.69,
+     7.69,
      "8x B200 SXM",
      "N"
     ],
@@ -449,8 +449,8 @@
   ],
   [
    "AMD Instinct MI300X (192GB)",
-   "$2.59",
-   "$2.59"
+   "$3.39",
+   "$3.39"
   ],
   [
    "AMD Instinct MI325X",
