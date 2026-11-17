@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "title": "GPU Cloud Pricing (November 2026): H100, H200, B200 & A100 Price per Hour %sep% %sitename%",
  "description": "Daily-updated cloud GPU prices: H100 from $1.80/hr, H200 from $2.09/hr, B200 from $4.11/hr across 31 providers. Compare and estimate costs.",
  "medians": {
@@ -8,5 +8,5 @@
   "b200": 7.84,
   "a100": 2.19
  },
- "bytes": 42213
+ "bytes": 42423
 }
