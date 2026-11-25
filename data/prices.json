@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "D": {
   "h100": {
    "n": "H100",
@@ -162,12 +162,6 @@
      "N"
     ],
     [
-     "Vast.ai",
-     4.13,
-     "Marketplace median, US/CA hosts",
-     "M"
-    ],
-    [
      "Crusoe",
      4.29,
      "H200",
@@ -183,6 +177,12 @@
      "Modal",
      4.54,
      "H200, serverless",
+     "M"
+    ],
+    [
+     "Vast.ai",
+     4.61,
+     "Marketplace median, US/CA hosts",
      "M"
     ],
     [
@@ -349,7 +349,7 @@
     ],
     [
      "Massed Compute",
-     1.38,
+     1.35,
      "1x A100 80GB SXM",
      "N"
     ],
@@ -420,7 +420,7 @@
   [
    "NVIDIA B300",
    "$9.50",
-   "$5.46"
+   "$5.47"
   ],
   [
    "NVIDIA GB200",
@@ -435,12 +435,12 @@
   [
    "NVIDIA L40S (48GB)",
    "$1.09",
-   "$0.80"
+   "$0.97"
   ],
   [
    "NVIDIA RTX 5090 (32GB)",
    "$0.71",
-   "$0.35"
+   "$0.29"
   ],
   [
    "NVIDIA RTX 4090 (24GB)",
